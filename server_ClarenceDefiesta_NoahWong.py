@@ -2,7 +2,7 @@
 # reverses 4 character messages and transforms "Ping" to "Pong" and "Pong" to "Ping"
 import socket
 
-HOST = 127.0.0.1
+HOST = "127.0.0.1"
 PORT = 9090
 
 # transform message 
